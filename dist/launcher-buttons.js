@@ -11638,7 +11638,7 @@ const launcherCSS = `
           }
 
           .meoGoButton {
-            background: linear-gradient(90deg, rgba(66,185,194,1) 0%, rgba(27,86,120,1) 100%);
+            background: #fff;
           }
 
           .miTeleButton {
